@@ -1,0 +1,11 @@
+{
+  "name": "to-do-list-mobile-app-ts",
+  "version": "1.0.0",
+  "description": "A Type Script Version of to-do-list-mobile-app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rauchips",
+  "license": "ISC"
+}
